@@ -12,3 +12,6 @@ i=0
 i=1
 i=3
 i=4
+negate 100 = -100
+staticCounter = 1
+staticArray[0] = 10

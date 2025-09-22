@@ -1,5 +1,7 @@
 const int CIRCLE_CONST = 314;
 
+
+int list[CIRCLE_CONST];
 int counter = 0;
 
 int increment() {
@@ -126,10 +128,8 @@ int main() {
         printf("y != z\n");
     }
 
-    //空函数体测试
-    void emptyFunc() {
-        ;
-        // do nothing
+    {
+        
     }
 
 

@@ -1,6 +1,15 @@
-// B级测试程序：数组初始化、多参数传递
+// B级测试程序：数组初始化、多参数传递、常量声明、静态变量、负号运算
 
+// 多个常量声明（覆盖常量声明文法）
 const int LEN = 4;
+const int ZERO = 0, NEG_ONE = -1;  // 多个常量声明，包含负号常量
+
+// 多个静态变量声明（覆盖静态变量文法）
+static int staticCounter = 0;
+static int staticArray[3] = {10, 20, 30};  // 静态数组
+static int staticUninitialized;  // 未初始化的静态变量（应该被初始化为0）
+static int staticMulti1 = 100, staticMulti2 = 200, staticMulti3 = 300;  // 多个静态变量一行声明
+
 
 // 计算数组的最大值
 int maxInArray(int arr[], int size) {
@@ -21,6 +30,11 @@ void addArrays(int a[], int b[], int size, int result[]) {
         result[i] = a[i] + b[i];
     }
     return;
+}
+
+// 使用负号的函数
+int negateValue(int val) {
+    return -val;  // 使用单目负号运算符
 }
 
 int main() {
@@ -69,6 +83,17 @@ int main() {
         if (i == 5) break;
         printf("i=%d\n", i);
     }
+
+    // 使用负号运算
+    int negVal = negateValue(100);
+    printf("negate 100 = %d\n", negVal);
+
+    // 使用静态变量
+    staticCounter = staticCounter + 1;
+    printf("staticCounter = %d\n", staticCounter);
+
+    // 使用静态数组
+    printf("staticArray[0] = %d\n", staticArray[0]);
 
     return 0;
 }
