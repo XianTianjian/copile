@@ -1,0 +1,9 @@
+23373541
+For loop iteration: 0
+For loop iteration: 1
+For loop iteration: 2
+a < b
+Loop index: 0
+Loop index: 1
+Loop index: 3
+a+b=15

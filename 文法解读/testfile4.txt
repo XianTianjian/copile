@@ -1,0 +1,85 @@
+// C级测试程序：完整覆盖，无数组、无短路运算
+
+const int CONST_VAL = 10;
+
+// 有返回值函数
+int square(int x) {
+    return x * x;
+}
+
+// 另一个简单函数
+int add(int x, int y) {
+    return x + y;
+}
+
+// 无返回值函数
+void printMessage() {
+    printf("This is a C-level test.\n");
+    return;
+}
+
+int main() {
+    printf("23373541\n");
+
+    // 测试变量与常量
+    int a = 5;
+    int b = CONST_VAL;
+    int c = a + b;
+    printf("a=%d b=%d c=%d\n", a, b, c);
+
+    // 基本算术运算
+    int d = c - 3;
+    int e = d * 2;
+    int f = e / 4;
+    int g = e % 3;
+    printf("d=%d e=%d f=%d g=%d\n", d, e, f, g);
+
+    // 关系运算符测试
+    if (d > 0) {
+        printf("d > 0\n");
+    }
+    if (e >= 10) {
+        printf("e >= 10\n");
+    }
+    if (f < 10) {
+        printf("f < 10\n");
+    }
+    if (g == 2) {
+        printf("g == 2\n");
+    }
+    if (g != 1) {
+        printf("g != 1\n");
+    }
+
+    // if / else 测试（简单条件）
+    if (c > 10) {
+        printf("c > 10\n");
+    } else {
+        printf("c <= 10\n");
+    }
+
+    // for 循环 + break/continue
+    int i = 0;
+    for (i = 0; i < 6; i = i + 1) {
+        if (i == 2) {
+            continue;
+        }
+        if (i == 5) {
+            break;
+        }
+        printf("i=%d\n", i);
+    }
+
+    // 测试函数调用
+    int result1 = square(3);
+    int result2 = add(a, b);
+    printf("square(3)=%d\n", result1);
+    printf("add(a,b)=%d\n", result2);
+
+    // void 函数调用
+    printMessage();
+
+    ; // 空语句测试
+
+    return 0;
+}

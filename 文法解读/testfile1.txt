@@ -1,0 +1,133 @@
+const int CIRCLE_CONST = 314;
+
+int counter = 0;
+
+int increment() {
+    counter = counter + 1;
+    return 1;
+}
+
+int checkPrime(int num) {
+    int divisor = 2;
+    for (; divisor * divisor <= num; divisor = divisor + 1) {
+        if (num % divisor == 0) return 0;
+    }
+    return 1;
+}
+
+void printArray(int arr[], int size) {
+    printf("First=%d Size=%d\n", arr[0], size);
+    return;
+}
+
+int obtainNumber() {
+    static int y = 0;
+    y = y + 1;
+    if (y==1 || y==2 || y==3 || y==4) {
+        printf("Static test call %d\n", y);
+    }
+    return getint();
+}
+
+void sayHello() {
+    printf("Hello from void function\n");
+    return;
+}
+
+int main() {
+    printf("23373541\n"); 
+
+    // 短路 && 测试
+    if (0 && increment()) {
+        printf("This should not be printed.\n"); 
+    } else {
+        printf("Short-circuit for && works.\n"); 
+    }
+    printf("%d\n", counter); 
+
+    // 短路 || 测试
+    if (1 || increment()) {
+        printf("Short-circuit for || works.\n"); 
+    } else {
+        printf("This should not be printed.\n"); 
+    }
+    printf("%d\n", counter); 
+
+    // increment 普通调用
+    increment();
+    printf("%d\n", counter); 
+
+    // if/else + && || ! 测试
+    int x = 1, y = 0, z = 5;
+    if (x && y) {
+        printf("Both true.\n"); 
+    } else {
+        printf("x and y not both true.\n"); 
+    }
+
+    if (x || y) {
+        printf("At least one true.\n"); 
+    } else {
+        printf("Both false.\n"); 
+    }
+
+    if (!y) {
+        printf("y is zero.\n");
+    }
+
+    // 关系运算符测试
+    if (z < CIRCLE_CONST) printf("z < const\n");
+    if (z > 0) printf("z > 0\n");
+    if (z >= 5) printf("z >= 5\n");
+
+    // 数组定义与传参
+    int arr[5] = {1, 2, 3, 4, 5};
+    printArray(arr, 5);
+
+    // 调用 static 测试函数
+    int val = obtainNumber();
+    printf("obtainNumber returned: %d\n", val);
+
+    // for + break/continue 测试
+    for (; x == 1;) {
+        if (val < 5) {
+            val = val + 1;
+            continue;
+        } else {
+            break;
+        }
+
+        if (val >= 0)
+            val = +val;
+        if (y <= 0)
+            y = !y;
+        if (x != y)
+            return y;
+    }
+
+    // void 函数测试
+    sayHello();
+
+        // 部分数组传参测试
+    int subTotal = checkPrime(arr[2]); // 单个元素
+    printf("checkPrime result=%d\n", subTotal);
+
+    // 传部分数组 (arr+2)
+    printArray(arr+2, 3);
+
+    // 相等性测试
+    if (x == z) {
+        printf("x == z\n");
+    } else {
+        printf("x != z\n");
+    }
+
+    if (y != z) {
+        printf("y != z\n");
+    }
+
+    ;
+
+
+    return 0;
+}

@@ -1,0 +1,8 @@
+23373541
+Input num1: 8
+Input num2: 3
+Sum: 11
+Difference: 5
+Product: 24
+Quotient: 2
+Remainder: 2

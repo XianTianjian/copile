@@ -1,0 +1,15 @@
+23373541
+Const array[0]: 10
+Const array[1]: 20
+Const array[2]: 30
+Sum array[0]: 15
+Sum array[1]: 35
+Sum array[2]: 55
+Max value: 55
+Sum of dynamic_arr: 105
+Partial sum of dynamic_arr[1..2]: 90
+Complex calculation: 15
+loop i=0
+loop i=1
+loop i=3
+loop i=4

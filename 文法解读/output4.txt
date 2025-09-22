@@ -1,0 +1,15 @@
+23373541
+a=5 b=10 c=15
+d=12 e=24 f=6 g=0
+d > 0
+e >= 10
+f < 10
+g != 1
+c > 10
+i=0
+i=1
+i=3
+i=4
+square(3)=9
+add(a,b)=15
+This is a C-level test.

@@ -1,0 +1,20 @@
+23373541
+Short-circuit for && works.
+0
+Short-circuit for || works.
+0
+1
+x and y not both true.
+At least one true.
+y is zero.
+z < const
+z > 0
+z >= 5
+First=1 Size=5
+Static test call 1
+obtainNumber returned: 0
+Hello from void function
+checkPrime result=1
+First=3 Size=3
+x != z
+y != z
