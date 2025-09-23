@@ -234,8 +234,11 @@ void Lexer::writeOutputs(const std::string &lexerFile, const std::string &errorF
             return a.second < b.second;
         });
         std::ofstream ofs(errorFile);
-        for (auto &e : errors) {
-            ofs << e.first << " " << e.second << "\n";
+        for (size_t i = 0; i < errors.size(); ++i) {
+            ofs << errors[i].first << " " << errors[i].second;
+            if (i != errors.size() - 1) {
+                ofs << "\n";
+            }
         }
         ofs.close();
     } else {

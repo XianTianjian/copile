@@ -13,11 +13,11 @@ int main(int argc, char **argv) {
     // 提示（可删除）
     // std::cout << "Lexing finished. ";
     std::ifstream ef("error.txt");
-    if (ef.good()) {
-        // 如果有 error.txt 内容则告诉用户
-        std::cout << "If errors found, see error.txt\n";
-    } else {
-        // std::cout << "see lexer.txt\n";
-    }
+    // if (ef.good()) {
+    //     // 如果有 error.txt 内容则告诉用户
+    //     std::cout << "If errors found, see error.txt\n";
+    // } else {
+    //     // std::cout << "see lexer.txt\n";
+    // }
     return 0;
 }
