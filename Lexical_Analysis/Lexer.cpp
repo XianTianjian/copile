@@ -241,8 +241,11 @@ void Lexer::writeOutputs(const std::string &lexerFile, const std::string &errorF
     } else {
         // 输出 tokens 按读取顺序
         std::ofstream ofs(lexerFile);
-        for (auto &t : tokens) {
-            ofs << tokenTypeToString(t.type) << " " << t.lexeme << "\n";
+        for (size_t i = 0; i < tokens.size(); ++i) {
+            ofs << tokenTypeToString(tokens[i].type) << " " << tokens[i].lexeme;
+            if (i != tokens.size() - 1) {
+                ofs << "\n";
+            }
         }
         ofs.close();
     }
