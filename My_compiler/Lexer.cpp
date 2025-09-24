@@ -1,3 +1,4 @@
+// Lexer.cpp
 #include "Lexer.h"
 #include <cctype>
 #include <iostream>
@@ -33,11 +34,9 @@ void Lexer::initKeywords() {
 }
 
 void Lexer::initDefaultErrorMap() {
-    // 默认错误码映射（可修改）
-    errorCodeMap["single&"] = "a"; // 样例中单独 '&' 对应 a
-    errorCodeMap["single|"] = "b";
-    errorCodeMap["unterminated_string"] = "c";
-    errorCodeMap["illegal_char"] = "d";
+    // 词法分析阶段唯一的错误类型：非法符号 & 或 |
+    errorCodeMap["single&"] = "a";
+    errorCodeMap["single|"] = "a";
 }
 
 void Lexer::setErrorCodeFor(const std::string &key, const std::string &code) {
@@ -121,7 +120,6 @@ void Lexer::readNumber() {
     int startLine = line;
     std::string s;
     while (!eof() && std::isdigit((unsigned char)peek())) s.push_back(get());
-    // 题目中只需要整数（INTCON），不做浮点支持
     tokens.emplace_back(TokenType::INTCON, s, startLine);
 }
 
@@ -135,15 +133,13 @@ void Lexer::readString() {
         s.push_back(c);
         if (c == '"') { closed = true; break; }
         if (c == '\\' && !eof()) {
-            // 支持简单转义，保留原样
             char next = get();
             s.push_back(next);
             continue;
         }
     }
     if (!closed) {
-        // 未闭合字符串 -> 记录错误，但仍记录 token as STRCON with what we have (题目可能期望只报错)
-        recordError(startLine, errorCodeMap["unterminated_string"]);
+        // 字符串未闭合错误，按题目要求，词法阶段不处理 → 可忽略
         tokens.emplace_back(TokenType::STRCON, s, startLine);
     } else {
         tokens.emplace_back(TokenType::STRCON, s, startLine);
@@ -154,22 +150,25 @@ void Lexer::readOperatorOrDelimiter() {
     int startLine = line;
     char c = peek();
 
-    // two-char ops first
+    // 特殊处理 & 和 |
     if (c == '&') {
         get();
-        if (peek() == '&') { get(); tokens.emplace_back(TokenType::AND, "&&", startLine); }
-        else { // 单独 '&' -> 词法错误 (a)
+        if (peek() == '&') {
+            get(); tokens.emplace_back(TokenType::AND, "&&", startLine);
+        } else {
             recordError(startLine, errorCodeMap["single&"]);
-            // we still add unknown token for completeness
-            std::string s = "&";
-            tokens.emplace_back(TokenType::UNKNOWN, s, startLine);
+            tokens.emplace_back(TokenType::UNKNOWN, "&", startLine);
         }
         return;
     }
     if (c == '|') {
         get();
-        if (peek() == '|') { get(); tokens.emplace_back(TokenType::OR, "||", startLine); }
-        else { recordError(startLine, errorCodeMap["single|"]); std::string s="|"; tokens.emplace_back(TokenType::UNKNOWN,s,startLine); }
+        if (peek() == '|') {
+            get(); tokens.emplace_back(TokenType::OR, "||", startLine);
+        } else {
+            recordError(startLine, errorCodeMap["single|"]);
+            tokens.emplace_back(TokenType::UNKNOWN, "|", startLine);
+        }
         return;
     }
     if (c == '=') {
@@ -197,8 +196,8 @@ void Lexer::readOperatorOrDelimiter() {
         return;
     }
 
-    // single-character tokens
-    get(); // consume c
+    // 单字符符号
+    get();
     std::string s(1, c);
     switch (c) {
         case '+': tokens.emplace_back(TokenType::PLUS, s, startLine); return;
@@ -215,8 +214,7 @@ void Lexer::readOperatorOrDelimiter() {
         case '{': tokens.emplace_back(TokenType::LBRACE, s, startLine); return;
         case '}': tokens.emplace_back(TokenType::RBRACE, s, startLine); return;
         default:
-            // 非法字符
-            recordError(startLine, errorCodeMap["illegal_char"]);
+            // 其他非法字符 → 词法阶段忽略错误，不记录
             tokens.emplace_back(TokenType::UNKNOWN, s, startLine);
             return;
     }
@@ -228,7 +226,6 @@ void Lexer::recordError(int lineNo, const std::string &code) {
 
 void Lexer::writeOutputs(const std::string &lexerFile, const std::string &errorFile) {
     if (!errors.empty()) {
-        // 按行号从小到大输出错误（题目要求）
         std::sort(errors.begin(), errors.end(), [](auto &a, auto &b){
             if (a.first != b.first) return a.first < b.first;
             return a.second < b.second;
@@ -236,19 +233,14 @@ void Lexer::writeOutputs(const std::string &lexerFile, const std::string &errorF
         std::ofstream ofs(errorFile);
         for (size_t i = 0; i < errors.size(); ++i) {
             ofs << errors[i].first << " " << errors[i].second;
-            if (i != errors.size() - 1) {
-                ofs << "\n";
-            }
+            if (i != errors.size() - 1) ofs << "\n";
         }
         ofs.close();
     } else {
-        // 输出 tokens 按读取顺序
         std::ofstream ofs(lexerFile);
         for (size_t i = 0; i < tokens.size(); ++i) {
             ofs << tokenTypeToString(tokens[i].type) << " " << tokens[i].lexeme;
-            if (i != tokens.size() - 1) {
-                ofs << "\n";
-            }
+            if (i != tokens.size() - 1) ofs << "\n";
         }
         ofs.close();
     }
