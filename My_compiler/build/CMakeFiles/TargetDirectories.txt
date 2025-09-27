@@ -1,3 +1,3 @@
-D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/Compiler.dir
-D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/edit_cache.dir
-D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/rebuild_cache.dir
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/Compiler.dir
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/edit_cache.dir
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/rebuild_cache.dir

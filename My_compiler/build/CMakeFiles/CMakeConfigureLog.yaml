@@ -62,6 +62,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/REGISTRY-NOTFOUND/bin/"
       - "c:/MinGW/bin/"
       - "/MinGW/bin/"
@@ -155,6 +156,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -215,6 +217,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files/Common Files/Oracle/Java/javapath/c++.com"
       - "C:/Program Files/Common Files/Oracle/Java/javapath/c++.exe"
@@ -656,6 +659,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -723,6 +727,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "message-v1"
     backtrace:
@@ -743,7 +748,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/4.1.1/CompilerIdCXX/a.exe
+        D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/4.1.1/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -800,6 +805,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/ar.com"
     found: "D:/Tool/MIN/mingw64/bin/ar.exe"
@@ -845,6 +851,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -900,6 +907,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/ranlib.com"
     found: "D:/Tool/MIN/mingw64/bin/ranlib.exe"
@@ -945,6 +953,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1000,6 +1009,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/strip.com"
     found: "D:/Tool/MIN/mingw64/bin/strip.exe"
@@ -1045,6 +1055,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1100,6 +1111,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/ld.com"
     found: "D:/Tool/MIN/mingw64/bin/ld.exe"
@@ -1145,6 +1157,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1200,6 +1213,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/nm.com"
     found: "D:/Tool/MIN/mingw64/bin/nm.exe"
@@ -1245,6 +1259,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1300,6 +1315,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/objdump.com"
     found: "D:/Tool/MIN/mingw64/bin/objdump.exe"
@@ -1345,6 +1361,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1400,6 +1417,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/objcopy.com"
     found: "D:/Tool/MIN/mingw64/bin/objcopy.exe"
@@ -1445,6 +1463,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1500,6 +1519,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/readelf.com"
     found: "D:/Tool/MIN/mingw64/bin/readelf.exe"
@@ -1545,6 +1565,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1600,6 +1621,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/dlltool.com"
     found: "D:/Tool/MIN/mingw64/bin/dlltool.exe"
@@ -1645,6 +1667,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1700,6 +1723,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/addr2line.com"
     found: "D:/Tool/MIN/mingw64/bin/addr2line.exe"
@@ -1745,6 +1769,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1800,6 +1825,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/tapi.com"
       - "D:/Tool/MIN/mingw64/bin/tapi.exe"
@@ -1906,6 +1932,9 @@ events:
       - "C:/Users/22727/go/bin/tapi.com"
       - "C:/Users/22727/go/bin/tapi.exe"
       - "C:/Users/22727/go/bin/tapi"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -1949,6 +1978,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -2007,6 +2037,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/gcc-ar-14.2.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar-14.2.exe"
@@ -2113,6 +2144,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ar-14.2.com"
       - "C:/Users/22727/go/bin/gcc-ar-14.2.exe"
       - "C:/Users/22727/go/bin/gcc-ar-14.2"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14.2.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14.2.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14.2"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar-14.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar-14.exe"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar-14"
@@ -2218,6 +2252,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ar-14.com"
       - "C:/Users/22727/go/bin/gcc-ar-14.exe"
       - "C:/Users/22727/go/bin/gcc-ar-14"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-14"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar14.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar14.exe"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar14"
@@ -2323,6 +2360,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ar14.com"
       - "C:/Users/22727/go/bin/gcc-ar14.exe"
       - "C:/Users/22727/go/bin/gcc-ar14"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar14.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar14.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar14"
       - "D:/Tool/MIN/mingw64/bin/gcc-ar.com"
     found: "D:/Tool/MIN/mingw64/bin/gcc-ar.exe"
     search_context:
@@ -2367,6 +2407,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -2425,6 +2466,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib-14.2.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib-14.2.exe"
@@ -2531,6 +2573,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ranlib-14.2.com"
       - "C:/Users/22727/go/bin/gcc-ranlib-14.2.exe"
       - "C:/Users/22727/go/bin/gcc-ranlib-14.2"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14.2.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14.2.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14.2"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib-14.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib-14.exe"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib-14"
@@ -2636,6 +2681,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ranlib-14.com"
       - "C:/Users/22727/go/bin/gcc-ranlib-14.exe"
       - "C:/Users/22727/go/bin/gcc-ranlib-14"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-14"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib14.com"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib14.exe"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib14"
@@ -2741,6 +2789,9 @@ events:
       - "C:/Users/22727/go/bin/gcc-ranlib14.com"
       - "C:/Users/22727/go/bin/gcc-ranlib14.exe"
       - "C:/Users/22727/go/bin/gcc-ranlib14"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib14.com"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib14.exe"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib14"
       - "D:/Tool/MIN/mingw64/bin/gcc-ranlib.com"
     found: "D:/Tool/MIN/mingw64/bin/gcc-ranlib.exe"
     search_context:
@@ -2785,6 +2836,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -2843,6 +2895,7 @@ events:
       - "C:/Users/22727/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/22727/AppData/Roaming/npm/"
       - "C:/Users/22727/go/bin/"
+      - "C:/Users/22727/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -2966,6 +3019,7 @@ events:
         - "C:\\Users\\22727\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\22727\\AppData\\Roaming\\npm"
         - "C:\\Users\\22727\\go\\bin"
+        - "c:\\Users\\22727\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/CompilerProject"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2981,8 +3035,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr"
-      binary: "D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr"
+      source: "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63"
+      binary: "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2992,13 +3046,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr'
+        Change Dir: 'D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63'
         
-        Run Build Command(s): D:/Tool/CMake/bin/cmake.exe -E env VERBOSE=1 D:/Tool/MIN/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5eb75/fast
-        D:/Tool/MIN/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_5eb75.dir\\build.make CMakeFiles/cmTC_5eb75.dir/build
-        mingw32-make[1]: Entering directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr'
-        Building CXX object CMakeFiles/cmTC_5eb75.dir/CMakeCXXCompilerABI.cpp.obj
-        D:\\Tool\\MIN\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s): D:/Tool/CMake/bin/cmake.exe -E env VERBOSE=1 D:/Tool/MIN/mingw64/bin/mingw32-make.exe -f Makefile cmTC_7a9f1/fast
+        D:/Tool/MIN/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7a9f1.dir\\build.make CMakeFiles/cmTC_7a9f1.dir/build
+        mingw32-make[1]: Entering directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63'
+        Building CXX object CMakeFiles/cmTC_7a9f1.dir/CMakeCXXCompilerABI.cpp.obj
+        D:\\Tool\\MIN\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=D:\\Tool\\MIN\\mingw64\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -3006,8 +3060,8 @@ events:
         Thread model: win32
         Supported LTO compression algorithms: zlib
         gcc version 14.2.0 (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\'
-         D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -U_REENTRANT D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_5eb75.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\22727\\AppData\\Local\\Temp\\ccC7SApe.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\'
+         D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -U_REENTRANT D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_7a9f1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\22727\\AppData\\Local\\Temp\\ccxTk87z.s
         GNU C++17 (x86_64-win32-seh-rev1, Built by MinGW-Builds project) version 14.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 14.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.25-GMP
         
@@ -3030,14 +3084,14 @@ events:
          D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 23a6ef31f8bab157d05d41078fdb00cb
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\'
-         D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\22727\\AppData\\Local\\Temp\\ccC7SApe.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\'
+         D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\22727\\AppData\\Local\\Temp\\ccxTk87z.s
         GNU assembler version 2.43 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.43
         COMPILER_PATH=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/;D:/Tool/MIN/mingw64/bin/../libexec/gcc/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;D:/Tool/MIN/mingw64/bin/../lib/gcc/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_5eb75.exe
-        D:\\Tool\\CMake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_5eb75.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_7a9f1.exe
+        D:\\Tool\\CMake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7a9f1.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=D:\\Tool\\MIN\\mingw64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe
@@ -3048,16 +3102,16 @@ events:
         gcc version 14.2.0 (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 
         COMPILER_PATH=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/;D:/Tool/MIN/mingw64/bin/../libexec/gcc/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;D:/Tool/MIN/mingw64/bin/../lib/gcc/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5eb75.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_5eb75.'
-         D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\cc7GIlyB.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_5eb75.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_5eb75.dir/objects.a --no-whole-archive --out-implib libcmTC_5eb75.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7a9f1.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_7a9f1.'
+         D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\ccjI1Iwg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_7a9f1.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7a9f1.dir/objects.a --no-whole-archive --out-implib libcmTC_7a9f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         collect2 version 14.2.0
-        D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\cc7GIlyB.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_5eb75.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_5eb75.dir/objects.a --no-whole-archive --out-implib libcmTC_5eb75.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\ccjI1Iwg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_7a9f1.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7a9f1.dir/objects.a --no-whole-archive --out-implib libcmTC_7a9f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         GNU ld (GNU Binutils) 2.43
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5eb75.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_5eb75.'
-        D:\\Tool\\CMake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_5eb75.dir/objects.a
-        D:\\Tool\\MIN\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_5eb75.dir/objects.a @CMakeFiles\\cmTC_5eb75.dir\\objects1.rsp
-        D:\\Tool\\MIN\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_5eb75.dir/objects.a -Wl,--no-whole-archive -o cmTC_5eb75.exe -Wl,--out-implib,libcmTC_5eb75.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7a9f1.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_7a9f1.'
+        D:\\Tool\\CMake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_7a9f1.dir/objects.a
+        D:\\Tool\\MIN\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_7a9f1.dir/objects.a @CMakeFiles\\cmTC_7a9f1.dir\\objects1.rsp
+        D:\\Tool\\MIN\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_7a9f1.dir/objects.a -Wl,--no-whole-archive -o cmTC_7a9f1.exe -Wl,--out-implib,libcmTC_7a9f1.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63'
         
       exitCode: 0
   -
@@ -3096,13 +3150,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr']
+        ignore line: [Change Dir: 'D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63']
         ignore line: []
-        ignore line: [Run Build Command(s): D:/Tool/CMake/bin/cmake.exe -E env VERBOSE=1 D:/Tool/MIN/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5eb75/fast]
-        ignore line: [D:/Tool/MIN/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_5eb75.dir\\build.make CMakeFiles/cmTC_5eb75.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/CMakeFiles/CMakeScratch/TryCompile-ifmmfr']
-        ignore line: [Building CXX object CMakeFiles/cmTC_5eb75.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [D:\\Tool\\MIN\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): D:/Tool/CMake/bin/cmake.exe -E env VERBOSE=1 D:/Tool/MIN/mingw64/bin/mingw32-make.exe -f Makefile cmTC_7a9f1/fast]
+        ignore line: [D:/Tool/MIN/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7a9f1.dir\\build.make CMakeFiles/cmTC_7a9f1.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/CMakeFiles/CMakeScratch/TryCompile-6w8c63']
+        ignore line: [Building CXX object CMakeFiles/cmTC_7a9f1.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [D:\\Tool\\MIN\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\Tool\\MIN\\mingw64\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -3110,8 +3164,8 @@ events:
         ignore line: [Thread model: win32]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.0 (x86_64-win32-seh-rev1  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\']
-        ignore line: [ D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -U_REENTRANT D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_5eb75.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\22727\\AppData\\Local\\Temp\\ccC7SApe.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\']
+        ignore line: [ D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -U_REENTRANT D:\\Tool\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_7a9f1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\22727\\AppData\\Local\\Temp\\ccxTk87z.s]
         ignore line: [GNU C++17 (x86_64-win32-seh-rev1  Built by MinGW-Builds project) version 14.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 14.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.25-GMP]
         ignore line: []
@@ -3134,8 +3188,8 @@ events:
         ignore line: [ D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 23a6ef31f8bab157d05d41078fdb00cb]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\']
-        ignore line: [ D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\22727\\AppData\\Local\\Temp\\ccC7SApe.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\']
+        ignore line: [ D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\22727\\AppData\\Local\\Temp\\ccxTk87z.s]
         ignore line: [GNU assembler version 2.43 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.43]
         ignore line: [COMPILER_PATH=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/]
         ignore line: [D:/Tool/MIN/mingw64/bin/../libexec/gcc/]
@@ -3146,9 +3200,9 @@ events:
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_5eb75.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_5eb75.exe]
-        ignore line: [D:\\Tool\\CMake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_5eb75.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7a9f1.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_7a9f1.exe]
+        ignore line: [D:\\Tool\\CMake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7a9f1.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\Tool\\MIN\\mingw64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe]
@@ -3166,13 +3220,13 @@ events:
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5eb75.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_5eb75.']
-        link line: [ D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\cc7GIlyB.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_5eb75.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_5eb75.dir/objects.a --no-whole-archive --out-implib libcmTC_5eb75.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7a9f1.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_7a9f1.']
+        link line: [ D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\ccjI1Iwg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1420-win32-seh-msvcrt-rt_v12-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_7a9f1.exe D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LD:/Tool/MIN/mingw64/bin/../lib/gcc -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7a9f1.dir/objects.a --no-whole-archive --out-implib libcmTC_7a9f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
           arg [D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=D:/Tool/MIN/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\cc7GIlyB.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\22727\\AppData\\Local\\Temp\\ccjI1Iwg.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -3195,7 +3249,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_5eb75.exe] ==> ignore
+          arg [cmTC_7a9f1.exe] ==> ignore
           arg [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o] ==> obj [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o]
           arg [-LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0] ==> dir [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0]
@@ -3206,10 +3260,10 @@ events:
           arg [-LD:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..] ==> dir [D:/Tool/MIN/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_5eb75.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_7a9f1.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_5eb75.dll.a] ==> ignore
+          arg [libcmTC_7a9f1.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore

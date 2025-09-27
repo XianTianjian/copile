@@ -3,9 +3,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/Compiler.dir/Compiler.cpp.obj.d"
   "CMakeFiles/Compiler.dir/Lexer.cpp.obj"
   "CMakeFiles/Compiler.dir/Lexer.cpp.obj.d"
-  "Compiler.exe"
-  "Compiler.exe.manifest"
-  "Compiler.pdb"
+  "CMakeFiles/Compiler.dir/Parser.cpp.obj"
+  "CMakeFiles/Compiler.dir/Parser.cpp.obj.d"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe.manifest"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.pdb"
   "libCompiler.dll.a"
 )
 

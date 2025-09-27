@@ -52,10 +52,10 @@ RM = D:\Tool\CMake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis
+CMAKE_SOURCE_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build
+CMAKE_BINARY_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Compiler.dir/depend.make
@@ -72,52 +72,68 @@ CMakeFiles/Compiler.dir/codegen:
 .PHONY : CMakeFiles/Compiler.dir/codegen
 
 CMakeFiles/Compiler.dir/Compiler.cpp.obj: CMakeFiles/Compiler.dir/flags.make
-CMakeFiles/Compiler.dir/Compiler.cpp.obj: D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/Compiler.cpp
+CMakeFiles/Compiler.dir/Compiler.cpp.obj: D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Compiler.cpp
 CMakeFiles/Compiler.dir/Compiler.cpp.obj: CMakeFiles/Compiler.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Compiler.dir/Compiler.cpp.obj"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Compiler.dir/Compiler.cpp.obj -MF CMakeFiles\Compiler.dir\Compiler.cpp.obj.d -o CMakeFiles\Compiler.dir\Compiler.cpp.obj -c D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Compiler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Compiler.dir/Compiler.cpp.obj"
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Compiler.dir/Compiler.cpp.obj -MF CMakeFiles\Compiler.dir\Compiler.cpp.obj.d -o CMakeFiles\Compiler.dir\Compiler.cpp.obj -c D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Compiler.cpp
 
 CMakeFiles/Compiler.dir/Compiler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Compiler.dir/Compiler.cpp.i"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Compiler.cpp > CMakeFiles\Compiler.dir\Compiler.cpp.i
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Compiler.cpp > CMakeFiles\Compiler.dir\Compiler.cpp.i
 
 CMakeFiles/Compiler.dir/Compiler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Compiler.dir/Compiler.cpp.s"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Compiler.cpp -o CMakeFiles\Compiler.dir\Compiler.cpp.s
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Compiler.cpp -o CMakeFiles\Compiler.dir\Compiler.cpp.s
 
 CMakeFiles/Compiler.dir/Lexer.cpp.obj: CMakeFiles/Compiler.dir/flags.make
-CMakeFiles/Compiler.dir/Lexer.cpp.obj: D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/Lexer.cpp
+CMakeFiles/Compiler.dir/Lexer.cpp.obj: D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Lexer.cpp
 CMakeFiles/Compiler.dir/Lexer.cpp.obj: CMakeFiles/Compiler.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Compiler.dir/Lexer.cpp.obj"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Compiler.dir/Lexer.cpp.obj -MF CMakeFiles\Compiler.dir\Lexer.cpp.obj.d -o CMakeFiles\Compiler.dir\Lexer.cpp.obj -c D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Lexer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Compiler.dir/Lexer.cpp.obj"
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Compiler.dir/Lexer.cpp.obj -MF CMakeFiles\Compiler.dir\Lexer.cpp.obj.d -o CMakeFiles\Compiler.dir\Lexer.cpp.obj -c D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Lexer.cpp
 
 CMakeFiles/Compiler.dir/Lexer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Compiler.dir/Lexer.cpp.i"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Lexer.cpp > CMakeFiles\Compiler.dir\Lexer.cpp.i
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Lexer.cpp > CMakeFiles\Compiler.dir\Lexer.cpp.i
 
 CMakeFiles/Compiler.dir/Lexer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Compiler.dir/Lexer.cpp.s"
-	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Lexer.cpp -o CMakeFiles\Compiler.dir\Lexer.cpp.s
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Lexer.cpp -o CMakeFiles\Compiler.dir\Lexer.cpp.s
+
+CMakeFiles/Compiler.dir/Parser.cpp.obj: CMakeFiles/Compiler.dir/flags.make
+CMakeFiles/Compiler.dir/Parser.cpp.obj: D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Parser.cpp
+CMakeFiles/Compiler.dir/Parser.cpp.obj: CMakeFiles/Compiler.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Compiler.dir/Parser.cpp.obj"
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Compiler.dir/Parser.cpp.obj -MF CMakeFiles\Compiler.dir\Parser.cpp.obj.d -o CMakeFiles\Compiler.dir\Parser.cpp.obj -c D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Parser.cpp
+
+CMakeFiles/Compiler.dir/Parser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Compiler.dir/Parser.cpp.i"
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Parser.cpp > CMakeFiles\Compiler.dir\Parser.cpp.i
+
+CMakeFiles/Compiler.dir/Parser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Compiler.dir/Parser.cpp.s"
+	D:\Tool\MIN\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Parser.cpp -o CMakeFiles\Compiler.dir\Parser.cpp.s
 
 # Object files for target Compiler
 Compiler_OBJECTS = \
 "CMakeFiles/Compiler.dir/Compiler.cpp.obj" \
-"CMakeFiles/Compiler.dir/Lexer.cpp.obj"
+"CMakeFiles/Compiler.dir/Lexer.cpp.obj" \
+"CMakeFiles/Compiler.dir/Parser.cpp.obj"
 
 # External object files for target Compiler
 Compiler_EXTERNAL_OBJECTS =
 
-Compiler.exe: CMakeFiles/Compiler.dir/Compiler.cpp.obj
-Compiler.exe: CMakeFiles/Compiler.dir/Lexer.cpp.obj
-Compiler.exe: CMakeFiles/Compiler.dir/build.make
-Compiler.exe: CMakeFiles/Compiler.dir/linkLibs.rsp
-Compiler.exe: CMakeFiles/Compiler.dir/objects1.rsp
-Compiler.exe: CMakeFiles/Compiler.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Compiler.exe"
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/Compiler.cpp.obj
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/Lexer.cpp.obj
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/Parser.cpp.obj
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/build.make
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/linkLibs.rsp
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/objects1.rsp
+D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe: CMakeFiles/Compiler.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\bin\Compiler.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Compiler.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/Compiler.dir/build: Compiler.exe
+CMakeFiles/Compiler.dir/build: D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/bin/Compiler.exe
 .PHONY : CMakeFiles/Compiler.dir/build
 
 CMakeFiles/Compiler.dir/clean:
@@ -125,6 +141,6 @@ CMakeFiles/Compiler.dir/clean:
 .PHONY : CMakeFiles/Compiler.dir/clean
 
 CMakeFiles/Compiler.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles\Compiler.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles\Compiler.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Compiler.dir/depend
 

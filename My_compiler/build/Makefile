@@ -56,10 +56,10 @@ RM = D:\Tool\CMake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis
+CMAKE_SOURCE_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build
+CMAKE_BINARY_DIR = D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -176,6 +176,30 @@ Lexer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Compiler.dir\build.make CMakeFiles/Compiler.dir/Lexer.cpp.s
 .PHONY : Lexer.cpp.s
 
+Parser.obj: Parser.cpp.obj
+.PHONY : Parser.obj
+
+# target to build an object file
+Parser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Compiler.dir\build.make CMakeFiles/Compiler.dir/Parser.cpp.obj
+.PHONY : Parser.cpp.obj
+
+Parser.i: Parser.cpp.i
+.PHONY : Parser.i
+
+# target to preprocess a source file
+Parser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Compiler.dir\build.make CMakeFiles/Compiler.dir/Parser.cpp.i
+.PHONY : Parser.cpp.i
+
+Parser.s: Parser.cpp.s
+.PHONY : Parser.s
+
+# target to generate assembly for a file
+Parser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Compiler.dir\build.make CMakeFiles/Compiler.dir/Parser.cpp.s
+.PHONY : Parser.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +215,9 @@ help:
 	@echo ... Lexer.obj
 	@echo ... Lexer.i
 	@echo ... Lexer.s
+	@echo ... Parser.obj
+	@echo ... Parser.i
+	@echo ... Parser.s
 .PHONY : help
 
 

@@ -1,7 +1,7 @@
 CMakeFiles/Compiler.dir/Lexer.cpp.obj: \
- D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Lexer.cpp \
- D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Lexer.h \
- D:\AAA_3up\Compiler_Principles\Offline_exam\Lexical_Analysis\Token.h \
+ D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Lexer.cpp \
+ D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Lexer.h \
+ D:\AAA_3up\Compiler_Principles\Offline_exam\My_compiler\Token.h \
  D:/Tool/MIN/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/string \
  D:/Tool/MIN/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/requires_hosted.h \
  D:/Tool/MIN/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/Compiler.cpp" "CMakeFiles/Compiler.dir/Compiler.cpp.obj" "gcc" "CMakeFiles/Compiler.dir/Compiler.cpp.obj.d"
-  "D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/Lexer.cpp" "CMakeFiles/Compiler.dir/Lexer.cpp.obj" "gcc" "CMakeFiles/Compiler.dir/Lexer.cpp.obj.d"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Compiler.cpp" "CMakeFiles/Compiler.dir/Compiler.cpp.obj" "gcc" "CMakeFiles/Compiler.dir/Compiler.cpp.obj.d"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Lexer.cpp" "CMakeFiles/Compiler.dir/Lexer.cpp.obj" "gcc" "CMakeFiles/Compiler.dir/Lexer.cpp.obj.d"
+  "D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/Parser.cpp" "CMakeFiles/Compiler.dir/Parser.cpp.obj" "gcc" "CMakeFiles/Compiler.dir/Parser.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

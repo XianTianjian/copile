@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/AAA_3up/Compiler_Principles/Offline_exam/Lexical_Analysis/build/cmake_install.cmake"
+		"D:/AAA_3up/Compiler_Principles/Offline_exam/My_compiler/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
